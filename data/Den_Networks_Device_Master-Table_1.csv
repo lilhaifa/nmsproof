@@ -1,0 +1,124 @@
+Device Function,Device Make,Device Model,Device IP Address,Device Description,Upstream Device IP address
+IRD,Harmonic,7100,172.16.0.1,,Evertz IP
+IRD,Harmonic,7100,172.16.0.2,,Evertz IP
+IRD,Harmonic,7100,172.16.0.3,,Evertz IP
+IRD,Harmonic,7100,172.16.0.4,,Evertz IP
+IRD,Harmonic,7100,172.16.0.5,,Evertz IP
+IRD,Harmonic,7100,172.16.0.6,,Evertz IP
+IRD,Harmonic,7100,172.16.0.7,,Evertz IP
+IRD,Harmonic,7100,172.16.0.8,,Evertz IP
+IRD,Harmonic,7100,172.16.0.9,,Evertz IP
+IRD,Harmonic,7100,172.16.0.10,,Evertz IP
+IRD,Harmonic,7100,172.16.0.11,,Evertz IP
+IRD,Harmonic,7100,172.16.0.12,,Evertz IP
+IRD,Harmonic,7100,172.16.0.13,,Evertz IP
+IRD,Harmonic,7100,172.16.0.14,,Evertz IP
+IRD,Harmonic,7100,172.16.0.15,,Evertz IP
+IRD,Harmonic,7100,172.16.0.16,,Evertz IP
+IRD,Harmonic,7100,172.16.0.17,,Evertz IP
+IRD,Harmonic,7100,172.16.0.18,,Evertz IP
+IRD,Harmonic,7100,172.16.0.19,,Evertz IP
+IRD,Harmonic,7100,172.16.0.20,,Evertz IP
+IRD,Harmonic,7100,172.16.0.21,,Evertz IP
+IRD,Harmonic,7100,172.16.0.22,,Evertz IP
+IRD,Harmonic,8100,172.16.0.23,,Evertz IP
+IRD,Harmonic,8100,172.16.0.24,,Evertz IP
+IRD,Harmonic,8100,172.16.0.25,,Evertz IP
+IRD,Harmonic,7100,172.16.0.26,,Evertz IP
+IRD,Synamedia,9800,172.16.0.81,,Evertz IP
+IRD,Synamedia,9800,172.16.0.82,,Evertz IP
+IRD,Synamedia,9800,172.16.0.83,,Evertz IP
+IRD,Synamedia,9800,172.16.0.84,,Evertz IP
+IRD,Synamedia,9800,172.16.0.85,,Evertz IP
+IRD,Synamedia,9800,172.16.0.86,,Evertz IP
+IRD,Synamedia,9800,172.16.0.87,,Evertz IP
+IRD,Synamedia,9800,172.16.0.88,,Evertz IP
+IRD,Synamedia,9800,172.16.0.89,,Evertz IP
+IRD,Synamedia,9800,172.16.0.90,,Evertz IP
+IRD,Synamedia,9800,172.16.0.91,,Evertz IP
+IRD,Synamedia,9800,172.16.0.92,,Evertz IP
+IRD,Synamedia,9800,172.16.0.93,,Evertz IP
+IRD,Synamedia,9800,172.16.0.94,,Evertz IP
+IRD,Synamedia,9800,172.16.0.95,,Evertz IP
+IRD,Synamedia,9800,172.16.0.96,,Evertz IP
+IRD,Synamedia,9800,172.16.0.97,,Evertz IP
+IRD,Synamedia,9800,172.16.0.98,,Evertz IP
+IRD,Synamedia,9800,172.16.0.99,,Evertz IP
+IRD,Synamedia,9800,172.16.0.100,,Evertz IP
+Evertz NMS,DELL EMC  (PC),VistaLINK PRO,172.16.0.101,,NA
+RF Amp,Evertz,7800,172.16.0.102,,NA
+RF Amp,Evertz,7800,172.16.0.103,,NA
+RF Amp,Evertz,7800,172.16.0.104,,NA
+RF Amp,Evertz,7800,172.16.0.105,,NA
+RF Amp,Evertz,7800,172.16.0.106,,NA
+RF Amp,Evertz,7800,172.16.0.107,,NA
+RF Amp,Evertz,7800,172.16.0.108,,NA
+RF Amp,Evertz,7800,172.16.0.109,,NA
+RF Amp,Evertz,7800,172.16.0.110,,NA
+IRD,Ateme,EDGE,172.16.0.191,,Evertz IP
+IRD,Ateme,EDGE,172.16.0.192,,Evertz IP
+IRD,Ateme,EDGE,172.16.0.193,,Evertz IP
+IRD,Ateme,EDGE,172.16.0.194,,Evertz IP
+IRD,Ateme,EDGE,172.16.0.195,,Evertz IP
+IRD,Ateme,EDGE,172.16.0.196,,Evertz IP
+Switch,Cisco,C9300,172.16.0.241,,172.16.0.1-100
+Switch,Cisco,C9300,172.16.0.242,,
+,,,,,
+Transcoder,Cisco,DCM 9902,172.16.2.11,,
+Transcoder,Cisco,DCM 9902,172.16.2.12,,
+Transcoder,Cisco,DCM 9902,172.16.2.13,,
+Transcoder,Cisco,DCM 9902,172.16.2.14,,
+Transcoder,Cisco,DCM 9902,172.16.2.15,,
+Transcoder,Cisco,DCM 9902,172.16.2.16,,
+Transcoder,Cisco,DCM 9902,172.16.2.22,,
+Transcoder,Cisco,DCM 9902,172.16.2.23,,
+Transcoder,Cisco,DCM 9902,172.16.2.24,,
+Transcoder,Cisco,DCM 9902,172.16.2.25,,
+Encoder,Cisco,DCM 9902,172.16.2.34,,
+Encoder,Cisco,DCM 9902,172.16.2.35,,
+Encoder,Cisco,DCM 9902,172.16.2.36,,
+Encoder,Cisco,DCM 9902,172.16.2.37,,
+Encoder,Cisco,DCM 9902,172.16.2.38,,
+Encoder,Cisco,DCM 9902,172.16.2.39,,
+Encoder,Cisco,DCM 9902,172.16.2.41,,
+Encoder,Cisco,DCM 9902,172.16.2.42,,
+Encoder,Cisco,DCM 9902,172.16.2.43,,
+Encoder,Synamedia,vDCM,172.16.2.101,,
+Encoder,Synamedia,vDCM,172.16.2.102,,
+Encoder,Synamedia,vDCM,172.16.2.103,,
+Encoder,Synamedia,vDCM,172.16.2.104,,
+Encoder,Synamedia,vDCM,172.16.2.105,,
+Encoder,Synamedia,vDCM,172.16.2.106,,
+Encoder,Synamedia,vDCM,172.16.2.107,,
+Encoder,Synamedia,vDCM,172.16.2.108,,
+Encoder,Synamedia,vDCM,172.16.2.109,,
+Encoder,Synamedia,vDCM,172.16.2.121,,
+Encoder,Synamedia,vDCM,172.16.2.122,,
+Encoder,Synamedia,vDCM,172.16.2.131,,
+Encoder,Synamedia,vDCM,172.16.2.132,,
+Encoder,Synamedia,vDCM,172.16.2.133,,
+Encoder,Synamedia,vDCM,172.16.2.141,,
+Statmux Controller,Synamedia,DCM 9902,172.16.2.161,,
+Statmux Controller,Synamedia,DCM 9902,172.16.2.162,,
+Statmux Controller,Synamedia,DCM 9902,172.16.2.163,,
+Statmux Controller,Synamedia,DCM 9902,172.16.2.164,,
+Statmux Controller,Synamedia,DCM 9902,172.16.2.165,,
+Statmux Controller,Synamedia,DCM 9902,172.16.2.166,,
+Statmux Controller,Synamedia,vDCM,172.16.2.151,,
+Statmux Controller,Synamedia,vDCM,172.16.2.152,,
+Statmux Controller,Synamedia,vDCM,172.16.2.153,,
+Statmux Controller,Synamedia,vDCM,172.16.2.154,,
+MUX,Synamedia,vDCM,172.16.2.171,,
+MUX,Synamedia,vDCM,172.16.2.173,,
+MUX,Synamedia,vDCM,172.16.2.172,,
+MUX,Synamedia,vDCM,172.16.2.174,,
+Pool MUX,Cisco,DCM 9902,172.16.2.175,,
+Pool MUX,Cisco,DCM 9902,172.16.2.176,,
+Pool MUX,Cisco,DCM 9902,172.16.2.177,,
+Pool MUX,Cisco,DCM 9902,172.16.2.178,,
+VSM ,Synamedia,VSM Cluster  Node,172.16.2.181,,
+VSM ,Synamedia,VSM Cluster  Node,172.16.2.182,,
+VSM ,Synamedia,VSM Cluster  Node,172.16.2.183,,
+MUX,Cisco,DCM 9902,172.16.2.201,,
+MUX,Cisco,DCM 9902,172.16.2.202,,
+VSM ,Cisco,VSM Cluster  Node,172.16.2.212,,

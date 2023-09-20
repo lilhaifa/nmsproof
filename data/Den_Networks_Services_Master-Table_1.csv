@@ -1,0 +1,2 @@
+Device IP Address,Ingress Interface ID,Ingress Interface IP address,Ingress Interface Service Name,Egress Interface ID,Egress Interface IP address,Egress Interface Service Name
+172.16.0.9,NA,NA,Zee TV,DVBs2 port 1,NA,GBE 1
